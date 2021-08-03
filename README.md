@@ -13,3 +13,6 @@ Esse sistema realiza as funções de inserção de cadastros, edição, exclusã
 05) Importe o arquivo bd.sql em seu banco de dados.
 
 06) Inicialize um IDE e importe os arquivos da pasta SISTEMA_LOGIN.
+
+Usuario para acesso: master@master.com
+Senha: master
