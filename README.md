@@ -2,7 +2,7 @@
 
 Esse sistema realiza as funções de inserção de cadastros, edição, exclusão e listagem. Para realizar o download desse sistema basta seguir os seguintes passos:
 
-01) Realize o download de um IDE que aceite uma linguagem PHP.
+01) Realize o download de uma IDE que aceite a linguagem PHP.
 
 02) Realize o download do XAMPP. Segue o link: https://www.apachefriends.org/pt_br/index.html
 
@@ -12,7 +12,7 @@ Esse sistema realiza as funções de inserção de cadastros, edição, exclusã
 
 05) Importe o arquivo Senac_System.sql em seu banco de dados
 
-06) Inicializar um IDE e importar os arquivos da pasta Senac_System.
+06) Inicialize a IDE e importe os arquivos da pasta Senac_System.
 
 Usuario para acesso: master@master.com
 Senha: master
